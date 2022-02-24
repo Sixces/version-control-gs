@@ -8,6 +8,8 @@ The Age in Days Calculator is a program prompts for the user's name, then their 
 This program requires the installation of the Python promming languge, more specifically uses Python version 3.5 or above. To check your Python version, type in 'python' to the terminal or commandline and then you might see something similar to the following message: 'Python 3.8.3 (default, May 19 2020, 18:47:26) 
 [GCC 7.3.0] :: Anaconda, Inc. on linux'
 
+The WTFPL was chosen because this is a very simple program that does nothing special for the sake of learning how to use Github, and since no one else is ever likely to use this program, ne restrictions at all are necessary.
+
 
 ## Code of Conduct
 We welcome all participants from around the world for contribution/usage and prevents any type of discrimination from regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
